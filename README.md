@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi there, I'm Himanshu Sekhar Das! 👋
 
-<!--
-**Himanshu1281/Himanshu1281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Software Developer **, passionate about building scalable web applications, analyzing data for meaningful insights, and exploring cutting-edge technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 About Me:
+- 💻 **Software Development Trainee** at **Bahwan CyberTek**
+- 📊 **Data Analyst** at a **Multinational Corporation (MNC)**
+- 🌍 **Freelance Web Developer**, experienced in Wix, responsive web design, and backend development
+- 📝 **Published Researcher**: Contributed to *'Monitoring and Alerting Model for Coal Mines Using IoT'*, presented at ICTSD
+- 📖 Currently enhancing my expertise in **data analytics, machine learning, and full-stack development**
+
+---
+
+### 🔧 Tech Stack & Tools:
+- **Languages:** Kotlin, Python, JavaScript, SQL
+- **Web Technologies:** HTML, XML, CSS, React, Node.js, Wix
+- **Data & Analytics:** Pandas, NumPy, Power BI, Tableau
+- **Databases:** MySQL, PostgreSQL, Firebase
+- **Version Control:** Git, GitHub
+- **Cloud & DevOps:** AWS, Docker
+
+---
+
+### 📌 Projects & Contributions:
+- 🚀 Developed **responsive web applications** for various clients as a freelancer
+- 📊 Built **data visualization dashboards** to analyze business trends
+- 🔍 Worked on **IoT-based monitoring systems** for industrial safety
+
+---
+
+### 📫 Connect With Me:
+- 📧 **Email:** [himanshudasworks@gmail.com](mailto:himanshudasworks@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/himanshu-sekhar-das](#)
+- 🌐 **Portfolio:** [In progress portfolio.com](#)
+
+🚀 *Always eager to learn, collaborate, and innovate!*
