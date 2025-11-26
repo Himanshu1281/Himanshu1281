@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Software Developer **, passionate about bu
 ---
 
 ### 🔹 About Me:
-- 💻 **Software Development Trainee** at **Bahwan CyberTek**
+- 💻 **Associate Software Developer** at **Bahwan CyberTek**
 - 📊 **Data Analyst** at a **Multinational Corporation (MNC)**
 - 🌍 **Freelance Web Developer**, experienced in Wix, responsive web design, and backend development
 - 📝 **Published Researcher**: Contributed to *'Monitoring and Alerting Model for Coal Mines Using IoT'*, presented at ICTSD
