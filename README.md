@@ -1,6 +1,6 @@
 ### Hi there, I'm Himanshu Sekhar Das! 👋
 
-Welcome to my GitHub profile! I'm a **Software Developer **, passionate about building scalable web applications, analyzing data for meaningful insights, and exploring cutting-edge technologies.
+Welcome to my GitHub profile! I'm a Software Developer , passionate about building scalable web applications, analyzing data for meaningful insights, and exploring cutting-edge technologies.
 
 ---
 
