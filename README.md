@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a Software Developer , passionate about buildi
 
 ### 📫 Connect With Me:
 - 📧 **Email:** [himanshudasworks@gmail.com](mailto:himanshudasworks@gmail.com)
-- 🔗 **LinkedIn:** linkedin.com/in/himanshu-sekhar-das
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/himanshu-sekhar-das/
 - 🌐 **Portfolio:** https://himanshusekhardas.netlify.app/
 
 🚀 *Always eager to learn, collaborate, and innovate!*
